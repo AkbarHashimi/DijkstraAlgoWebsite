@@ -1,0 +1,86 @@
+#deleteButton
+{
+    width: 5%;
+    height: 10%;
+
+    border: 0px;
+
+    border-radius:50%;
+
+    position: absolute;
+
+    background: red;
+
+    top: 80%;
+    left: 90%;
+
+
+}
+
+#addButton
+{
+    width: 5%;
+    height: 10%;
+
+    border: 0px;
+
+    border-radius:50%;
+
+    position: absolute;
+
+    background: green;
+
+    top: 65%;
+    left: 90%;
+
+
+}
+
+#confirmButton
+{
+    width: 5%;
+    height: 10%;
+
+    border: 0px;
+
+    border-radius:50%;
+
+    position: absolute;
+
+    background: blue;
+
+    top: 50%;
+    left: 90%;
+
+
+}
+
+#getResultsButton
+{
+    width: 5%;
+    height: 10%;
+
+    border: 0px;
+
+    border-radius:50%;
+
+    position: absolute;
+
+    background: orange;
+
+    top: 35%;
+    left: 90%;
+
+
+}
+
+#topText
+{
+    text-align: center;
+    font-size: 2em;
+}
+
+#inputWrapper
+{
+    text-align: center;
+}
