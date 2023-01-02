@@ -3,13 +3,16 @@
     width: 5%;
     height: 10%;
 
+    font-size: 4em;
+
     border: 0px;
 
     border-radius:50%;
 
     position: absolute;
 
-    background: red;
+    background: black;
+    color: white;
 
     top: 80%;
     left: 90%;
@@ -22,13 +25,16 @@
     width: 5%;
     height: 10%;
 
+    font-size: 4em;
+
     border: 0px;
 
     border-radius:50%;
 
     position: absolute;
 
-    background: green;
+    background: black;
+    color: white;
 
     top: 65%;
     left: 90%;
@@ -41,13 +47,17 @@
     width: 5%;
     height: 10%;
 
+    font-size: 3em;
+    text-align: center;
+
     border: 0px;
 
     border-radius:50%;
 
     position: absolute;
 
-    background: blue;
+    background: black;
+    color: white;
 
     top: 50%;
     left: 90%;
@@ -60,13 +70,17 @@
     width: 5%;
     height: 10%;
 
+    font-size: 1em;
+    text-align: center;
+
     border: 0px;
 
     border-radius:50%;
 
     position: absolute;
 
-    background: orange;
+    background: black;
+    color: white;
 
     top: 35%;
     left: 90%;
